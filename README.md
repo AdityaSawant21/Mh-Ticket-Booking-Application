@@ -1,5 +1,15 @@
 # Mh-Ticket-Booking-Application
+* The project is aimed to make a Online Ticket Booking Portal that can any Citizen use to book tickets [Both Train and Bus] online and their data can be maintain computerized on AWS Server.
+* This system can be used for Ticket Booking in Maharastra.
 
+## TECH/FRAMEWORK USED:
+* HTML
+* CSS
+* Javascript
+* PHP
+* Xampp Server
+* MySQL
+* AWS Server
 ## This are some Outputs of the Project:
 ![image](https://user-images.githubusercontent.com/60505090/130497323-73866e5d-03a7-4c02-acdc-978610355256.png)
 ![image](https://user-images.githubusercontent.com/60505090/130501867-11b7e94b-208e-49af-b0da-4c18e7800190.png)
