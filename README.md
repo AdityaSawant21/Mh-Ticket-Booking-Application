@@ -9,7 +9,6 @@
 * PHP
 * Xampp Server
 * MySQL
-* AWS Server
 ## This are some Outputs of the Project:
 ![image](https://user-images.githubusercontent.com/60505090/130497323-73866e5d-03a7-4c02-acdc-978610355256.png)
 ![image](https://user-images.githubusercontent.com/60505090/130501867-11b7e94b-208e-49af-b0da-4c18e7800190.png)
